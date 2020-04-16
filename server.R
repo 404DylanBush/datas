@@ -1,7 +1,6 @@
 # server.R
 # ui.R
-install.packages("shiny")
-install.packages("maps")
+
 
 library(shiny)
 library(maps)

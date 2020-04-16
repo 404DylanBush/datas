@@ -1,7 +1,5 @@
 # server.R
 # ui.R
-install.packages("maps")
-install.packages("mapproj")
 library(shiny)
 library(maps)
 library(mapproj)
